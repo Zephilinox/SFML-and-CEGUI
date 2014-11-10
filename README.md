@@ -1,4 +1,4 @@
-Pixel Terrain
+SFML-and-CEGUI
 =====================
 
-Implementing pixel collision detection and pixel terrain destruction in C++/SFML
+This a skeletal project using SFML 2.1 and CEGUI 0.8.4
